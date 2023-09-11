@@ -1,0 +1,191 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #184b6b;
+    background-image: linear-gradient(135deg, #184b6b 0%, #9599E2 50%, #ffffff 100%);
+
+}
+.container{
+    display: flex;
+}
+@media (min-width: 800px){
+    .container{
+        flex-direction: row;
+    }
+
+}
+@media (max-width: 800px){
+    .container{
+        flex-direction: column;
+    }
+}
+
+
+    
+   
+#minor{
+   padding-left: 40%;
+   font-size: 2.4rem;
+    
+}
+#monuments{
+    font-size: 2.5rem;
+    color: steelblue;
+}
+.box{
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    font-size: 2.5rem;
+}
+#img1{
+   padding: 20px;
+   margin: 20px;
+   box-shadow: 10px 10px 40px 10px lightskyblue;
+   
+
+}
+#para1{
+    font-size: 2rem;
+    color: black;
+    padding: 10px;
+    font-family: 'Crimson Text', serif;
+    font-family: 'Heebo', sans-serif;
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Recursive', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Varela Round', sans-serif;
+
+}
+#img2{
+    height: 250px;
+    width: 400px;
+    box-shadow: 10px 10px 50px 30px lightskyblue;
+}
+#agra{
+    padding-bottom: 30px;
+}
+#img2{
+    height: 250px;
+    width: 400px;
+    box-shadow: 10px 10px 50px 30px lightskyblue;
+}
+#amer{
+    padding-bottom: 30px;
+}
+#img3{
+    height: 250px;
+    width: 400px;
+    box-shadow: 10px 10px 50px 30px lightskyblue;
+}
+#img4{
+    height: 250px;
+    width: 400px;
+    box-shadow: 10px 10px 50px 30px lightskyblue;
+}
+#sikiri{
+    padding-bottom: 30px;
+}
+#minar{
+    padding-bottom: 30px;
+}
+#temple{
+    padding-bottom: 30px;
+}
+#img5{
+    height: 250px;
+    width: 400px;
+    box-shadow: 10px 10px 50px 30px lightskyblue;
+
+}
+#mahal{
+    padding-bottom: 30px;
+}
+#img6{
+    height: 250px;
+    width: 400px;
+    box-shadow: 10px 10px 50px 30px lightskyblue;
+}
+#img7{
+    height: 250px;
+    width: 400px;
+    box-shadow: 10px 10px 50px 30px lightskyblue;
+}
+#img8{
+    height: 250px;
+    width: 400px;
+    box-shadow: 10px 10px 50px 30px lightskyblue;
+}
+#img9{
+    height: 250px;
+    width: 400px;
+    box-shadow: 10px 10px 50px 30px lightskyblue;
+}
+#img10{
+    height: 250px;
+    width: 400px;
+    box-shadow: 10px 10px 50px 30px lightskyblue;
+}
+#img11{
+    height: 250px;
+    width: 400px;
+    box-shadow: 10px 10px 50px 30px lightskyblue;
+}
+
+#gate{
+    padding-bottom: 30px;
+}
+#forts{
+    padding-bottom: 30px;
+}
+#mysore{
+    padding-bottom: 30px;
+}
+#minar{
+    padding-bottom: 30px;
+}
+.footer{
+    height: 300px;
+    width: auto;
+    background-color: #4f6c7f;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    box-shadow: 10px 10px 10px 10px lightskyblue;
+    border: 5px solid black;
+
+}
+#design{
+    font-size: 2.3rem;
+    padding-left: 20px;
+    font-style: italic;
+}
+#info{
+    font-size: 2.1rem;
+    padding-left: 20px;
+     font-style: normal;
+}
+
+#contact{
+    text-decoration: none;
+    padding-left: 20px;
+    font-size: 1.8rem;
+
+}
+#about{
+    text-decoration: none;
+    padding-left: 20px;
+    font-size: 1.8rem;
+}
+#address{
+    text-decoration: none;
+    padding-left: 20px;
+    font-size: 1.8rem;
+}
+.copy{
+    height: 50px;
+    width: auto;
+    
+    font-size: 2rem;
+    color: rgba(0, 0, 0, 0.89);
+}
